@@ -74,7 +74,7 @@ class Blockchain:
     def __init__(self):
         self.chain = []
         self.pending_transactions = []
-        self.difficulty = 2 # Tingkat kesulitan mining (2 untuk demo, 4 untuk produksi)
+        self.difficulty = 4 # Tingkat kesulitan mining
         self.mining_reward = 50 # Reward untuk penambang (miner)
         self.nodes = set()
         

@@ -558,7 +558,7 @@ Flask/
 ├── server.py           # Flask REST API (endpoints)
 ├── run.bat             # Script untuk menjalankan 3 node
 ├── requirements.txt    # Dependencies (flask, requests, ecdsa)
-├── DOKUMENTASI.md      # Dokumentasi ini
+├── README.md           # Dokumentasi ini
 └── .venv/              # Virtual environment Python
 ```
 
