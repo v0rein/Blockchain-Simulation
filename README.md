@@ -1,5 +1,11 @@
 # Dokumentasi Blockchain dengan Flask API
 
+| Nama                             | NRP        |
+| -------------------------------- | ---------- |
+| Dionisius Marcell Putra Indranto | 5027231044 |
+| Rafi' Afnaan Fathurrahman        | 5027231040 |
+| Dzaky Faiq Fayyadhi              | 5027231047 |
+
 ## Daftar Isi
 
 - [Dokumentasi Blockchain dengan Flask API](#dokumentasi-blockchain-dengan-flask-api)
